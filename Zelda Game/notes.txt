@@ -1,0 +1,7 @@
+Level Class:
+Contains all sprites(player, enemies, map...)+also deals with their interactions
+Needs to be able to manage hundreds of sprites effectively
+via groups
+
+groups: visible_sprites->group of sprites that will be visible(only group that draws sprites)
+        obstacle_sprites->group of sprites that the player can collide with
