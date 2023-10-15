@@ -1,2 +1,0 @@
-# Zelda
-Instructions go here.
